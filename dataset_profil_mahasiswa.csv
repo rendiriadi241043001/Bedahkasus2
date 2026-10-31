@@ -1,0 +1,1001 @@
+ID_Mahasiswa,Jurusan,Semester,IPK,Usia
+MHS-0001,Sistem Informasi,1,2.94,19
+MHS-0002,Akuntansi,4,2.96,19
+MHS-0003,Manajemen,6,3.17,19
+MHS-0004,Manajemen,5,3.38,20
+MHS-0005,Manajemen Informatika,6,3.57,18
+MHS-0006,Manajemen Informatika,4,2.97,19
+MHS-0007,Manajemen Informatika,5,3.77,20
+MHS-0008,Teknik Informatika,6,3.16,21
+MHS-0009,Manajemen,2,3.24,17
+MHS-0010,Manajemen,3,2.99,19
+MHS-0011,Manajemen Informatika,2,2.4,17
+MHS-0012,Akuntansi,8,3.56,21
+MHS-0013,Teknik Informatika,7,3.51,20
+MHS-0014,Manajemen Informatika,1,3.15,17
+MHS-0015,Manajemen Informatika,5,3.27,19
+MHS-0016,Manajemen Informatika,7,3.43,21
+MHS-0017,Sistem Informasi,1,2.7,18
+MHS-0018,Sistem Informasi,4,3.06,19
+MHS-0019,Sistem Informasi,7,3.53,21
+MHS-0020,Manajemen Informatika,1,2.81,17
+MHS-0021,Manajemen,5,3.35,19
+MHS-0022,Manajemen Informatika,2,2.78,18
+MHS-0023,Manajemen Informatika,7,3.41,23
+MHS-0024,Sistem Informasi,8,3.24,20
+MHS-0025,Sistem Informasi,7,2.68,22
+MHS-0026,Teknik Informatika,3,3.66,19
+MHS-0027,Manajemen Informatika,6,2.99,20
+MHS-0028,Sistem Informasi,6,2.97,21
+MHS-0029,Manajemen,2,3.32,18
+MHS-0030,Manajemen Informatika,6,3.65,20
+MHS-0031,Manajemen,1,2.89,17
+MHS-0032,Manajemen Informatika,4,3.27,20
+MHS-0033,Manajemen Informatika,2,3.4,19
+MHS-0034,Akuntansi,1,3.49,17
+MHS-0035,Akuntansi,1,3.31,17
+MHS-0036,Teknik Informatika,5,3.12,19
+MHS-0037,Sistem Informasi,2,2.96,17
+MHS-0038,Manajemen Informatika,5,3.28,19
+MHS-0039,Manajemen,1,2.87,18
+MHS-0040,Sistem Informasi,2,2.23,18
+MHS-0041,Manajemen Informatika,4,3.4,19
+MHS-0042,Sistem Informasi,6,3.57,20
+MHS-0043,Manajemen Informatika,2,2.42,19
+MHS-0044,Akuntansi,4,2.9,17
+MHS-0045,Manajemen Informatika,7,3.47,20
+MHS-0046,Manajemen,4,3.97,19
+MHS-0047,Sistem Informasi,2,3.26,19
+MHS-0048,Sistem Informasi,1,3.0,17
+MHS-0049,Sistem Informasi,6,3.19,18
+MHS-0050,Manajemen Informatika,1,3.73,18
+MHS-0051,Akuntansi,6,3.02,19
+MHS-0052,Teknik Informatika,3,2.97,18
+MHS-0053,Akuntansi,7,3.08,20
+MHS-0054,Teknik Informatika,6,2.92,20
+MHS-0055,Manajemen,8,3.29,21
+MHS-0056,Akuntansi,2,3.82,17
+MHS-0057,Manajemen Informatika,5,3.36,20
+MHS-0058,Manajemen Informatika,3,3.16,20
+MHS-0059,Manajemen Informatika,3,3.15,19
+MHS-0060,Sistem Informasi,4,2.7,18
+MHS-0061,Sistem Informasi,6,3.56,20
+MHS-0062,Manajemen Informatika,8,3.22,21
+MHS-0063,Teknik Informatika,5,3.19,20
+MHS-0064,Sistem Informasi,3,4.0,19
+MHS-0065,Manajemen Informatika,3,3.35,18
+MHS-0066,Sistem Informasi,5,2.99,20
+MHS-0067,Manajemen Informatika,2,3.1,18
+MHS-0068,Teknik Informatika,1,3.65,19
+MHS-0069,Manajemen Informatika,2,3.29,19
+MHS-0070,Akuntansi,2,2.75,19
+MHS-0071,Teknik Informatika,2,3.57,18
+MHS-0072,Manajemen Informatika,2,3.02,19
+MHS-0073,Manajemen Informatika,1,3.91,18
+MHS-0074,Teknik Informatika,1,3.63,17
+MHS-0075,Manajemen,8,3.09,22
+MHS-0076,Manajemen,3,3.7,19
+MHS-0077,Teknik Informatika,3,3.27,18
+MHS-0078,Manajemen Informatika,5,3.55,19
+MHS-0079,Sistem Informasi,2,3.42,18
+MHS-0080,Manajemen Informatika,7,2.95,21
+MHS-0081,Teknik Informatika,6,3.02,20
+MHS-0082,Manajemen,1,3.61,18
+MHS-0083,Sistem Informasi,3,3.13,20
+MHS-0084,Manajemen Informatika,6,3.11,21
+MHS-0085,Sistem Informasi,7,2.92,21
+MHS-0086,Sistem Informasi,3,3.4,19
+MHS-0087,Manajemen,4,3.97,18
+MHS-0088,Manajemen,1,2.88,18
+MHS-0089,Teknik Informatika,8,3.26,22
+MHS-0090,Sistem Informasi,2,3.74,18
+MHS-0091,Manajemen Informatika,7,3.22,20
+MHS-0092,Manajemen,4,3.41,18
+MHS-0093,Teknik Informatika,4,2.88,18
+MHS-0094,Manajemen,3,3.4,18
+MHS-0095,Teknik Informatika,2,3.18,18
+MHS-0096,Sistem Informasi,1,3.6,17
+MHS-0097,Sistem Informasi,2,3.67,18
+MHS-0098,Sistem Informasi,1,4.0,18
+MHS-0099,Manajemen Informatika,5,3.45,19
+MHS-0100,Manajemen Informatika,2,3.36,19
+MHS-0101,Manajemen Informatika,1,3.32,18
+MHS-0102,Manajemen,8,3.13,22
+MHS-0103,Sistem Informasi,7,3.37,20
+MHS-0104,Sistem Informasi,7,3.15,21
+MHS-0105,Akuntansi,8,3.31,20
+MHS-0106,Manajemen Informatika,1,3.71,18
+MHS-0107,Sistem Informasi,3,2.9,19
+MHS-0108,Teknik Informatika,5,3.65,20
+MHS-0109,Manajemen Informatika,5,3.71,19
+MHS-0110,Manajemen Informatika,1,3.21,17
+MHS-0111,Manajemen Informatika,6,2.51,20
+MHS-0112,Manajemen Informatika,2,3.04,17
+MHS-0113,Akuntansi,2,3.7,18
+MHS-0114,Teknik Informatika,4,3.24,18
+MHS-0115,Manajemen,4,2.9,20
+MHS-0116,Teknik Informatika,4,3.07,18
+MHS-0117,Teknik Informatika,1,3.54,18
+MHS-0118,Manajemen Informatika,6,3.44,21
+MHS-0119,Teknik Informatika,2,3.17,17
+MHS-0120,Sistem Informasi,1,3.12,18
+MHS-0121,Teknik Informatika,7,3.11,21
+MHS-0122,Teknik Informatika,7,2.93,20
+MHS-0123,Sistem Informasi,6,3.82,19
+MHS-0124,Manajemen Informatika,6,3.14,18
+MHS-0125,Manajemen Informatika,4,3.68,19
+MHS-0126,Sistem Informasi,4,3.78,18
+MHS-0127,Teknik Informatika,1,3.6,18
+MHS-0128,Teknik Informatika,3,3.1,18
+MHS-0129,Manajemen Informatika,2,3.39,19
+MHS-0130,Sistem Informasi,2,3.24,18
+MHS-0131,Sistem Informasi,5,2.93,19
+MHS-0132,Manajemen Informatika,3,3.36,19
+MHS-0133,Manajemen Informatika,1,2.84,18
+MHS-0134,Sistem Informasi,2,3.67,18
+MHS-0135,Akuntansi,5,3.09,20
+MHS-0136,Sistem Informasi,1,3.32,17
+MHS-0137,Sistem Informasi,6,3.35,21
+MHS-0138,Manajemen,3,3.16,19
+MHS-0139,Sistem Informasi,3,3.46,18
+MHS-0140,Akuntansi,4,3.08,19
+MHS-0141,Akuntansi,6,3.55,20
+MHS-0142,Manajemen Informatika,2,2.78,18
+MHS-0143,Sistem Informasi,5,3.29,20
+MHS-0144,Sistem Informasi,4,3.93,20
+MHS-0145,Manajemen Informatika,2,2.9,19
+MHS-0146,Manajemen Informatika,6,3.01,19
+MHS-0147,Manajemen,6,3.43,20
+MHS-0148,Sistem Informasi,4,3.31,20
+MHS-0149,Manajemen Informatika,6,3.37,20
+MHS-0150,Manajemen Informatika,6,3.42,21
+MHS-0151,Akuntansi,5,3.47,21
+MHS-0152,Manajemen Informatika,6,3.64,21
+MHS-0153,Manajemen Informatika,5,3.39,20
+MHS-0154,Sistem Informasi,5,3.17,20
+MHS-0155,Akuntansi,4,3.49,19
+MHS-0156,Manajemen Informatika,5,3.91,20
+MHS-0157,Manajemen,1,3.2,17
+MHS-0158,Teknik Informatika,7,2.91,22
+MHS-0159,Manajemen Informatika,6,3.64,19
+MHS-0160,Manajemen,1,3.21,19
+MHS-0161,Sistem Informasi,6,2.49,20
+MHS-0162,Manajemen,1,3.55,17
+MHS-0163,Manajemen,2,3.06,18
+MHS-0164,Sistem Informasi,5,3.22,18
+MHS-0165,Manajemen Informatika,1,3.37,18
+MHS-0166,Teknik Informatika,6,3.32,21
+MHS-0167,Sistem Informasi,6,3.5,20
+MHS-0168,Manajemen Informatika,3,3.1,19
+MHS-0169,Manajemen Informatika,1,3.43,19
+MHS-0170,Manajemen,2,3.16,18
+MHS-0171,Manajemen,4,3.51,18
+MHS-0172,Manajemen Informatika,8,3.47,22
+MHS-0173,Sistem Informasi,4,2.92,21
+MHS-0174,Manajemen Informatika,2,3.63,18
+MHS-0175,Manajemen,4,3.06,20
+MHS-0176,Manajemen Informatika,4,3.53,20
+MHS-0177,Manajemen,5,3.38,19
+MHS-0178,Sistem Informasi,1,3.89,17
+MHS-0179,Akuntansi,5,3.17,20
+MHS-0180,Manajemen Informatika,4,3.13,20
+MHS-0181,Sistem Informasi,8,3.24,21
+MHS-0182,Manajemen Informatika,2,3.14,17
+MHS-0183,Akuntansi,4,3.53,21
+MHS-0184,Teknik Informatika,7,2.68,20
+MHS-0185,Manajemen Informatika,1,2.88,17
+MHS-0186,Manajemen,7,2.88,21
+MHS-0187,Teknik Informatika,5,3.58,21
+MHS-0188,Manajemen,1,3.85,18
+MHS-0189,Sistem Informasi,2,3.21,18
+MHS-0190,Manajemen Informatika,5,3.19,20
+MHS-0191,Manajemen Informatika,1,3.27,18
+MHS-0192,Teknik Informatika,4,3.66,19
+MHS-0193,Akuntansi,2,2.93,17
+MHS-0194,Manajemen,4,3.33,19
+MHS-0195,Sistem Informasi,1,3.59,18
+MHS-0196,Sistem Informasi,6,3.43,19
+MHS-0197,Manajemen,8,3.32,21
+MHS-0198,Teknik Informatika,8,3.6,21
+MHS-0199,Teknik Informatika,5,2.3,21
+MHS-0200,Teknik Informatika,1,3.49,19
+MHS-0201,Manajemen,5,3.02,19
+MHS-0202,Manajemen Informatika,1,2.61,17
+MHS-0203,Manajemen Informatika,1,3.43,17
+MHS-0204,Teknik Informatika,2,3.73,18
+MHS-0205,Manajemen,3,3.2,19
+MHS-0206,Manajemen Informatika,5,3.58,19
+MHS-0207,Manajemen Informatika,5,3.81,19
+MHS-0208,Manajemen,3,3.71,19
+MHS-0209,Manajemen Informatika,2,3.82,19
+MHS-0210,Manajemen Informatika,8,3.51,20
+MHS-0211,Sistem Informasi,3,3.28,19
+MHS-0212,Manajemen,3,2.69,18
+MHS-0213,Manajemen,1,3.16,18
+MHS-0214,Manajemen Informatika,6,2.95,21
+MHS-0215,Manajemen,5,4.0,19
+MHS-0216,Manajemen Informatika,2,3.19,18
+MHS-0217,Sistem Informasi,1,3.29,17
+MHS-0218,Manajemen,5,3.44,19
+MHS-0219,Manajemen,4,3.27,19
+MHS-0220,Teknik Informatika,2,3.84,17
+MHS-0221,Manajemen,7,3.03,20
+MHS-0222,Manajemen,1,3.32,17
+MHS-0223,Manajemen Informatika,3,2.99,18
+MHS-0224,Sistem Informasi,7,2.79,20
+MHS-0225,Manajemen Informatika,3,3.04,18
+MHS-0226,Manajemen Informatika,4,3.24,19
+MHS-0227,Akuntansi,3,3.1,18
+MHS-0228,Sistem Informasi,2,3.01,18
+MHS-0229,Teknik Informatika,8,2.76,22
+MHS-0230,Manajemen,3,3.22,18
+MHS-0231,Teknik Informatika,7,2.72,20
+MHS-0232,Sistem Informasi,2,3.52,17
+MHS-0233,Manajemen,2,3.28,18
+MHS-0234,Sistem Informasi,1,2.74,17
+MHS-0235,Manajemen Informatika,4,3.14,18
+MHS-0236,Manajemen,2,2.99,17
+MHS-0237,Manajemen Informatika,6,3.36,20
+MHS-0238,Manajemen Informatika,3,3.72,19
+MHS-0239,Manajemen,8,2.59,21
+MHS-0240,Manajemen Informatika,1,3.29,17
+MHS-0241,Akuntansi,6,3.19,20
+MHS-0242,Akuntansi,5,3.48,19
+MHS-0243,Akuntansi,5,3.32,19
+MHS-0244,Sistem Informasi,6,2.99,19
+MHS-0245,Manajemen Informatika,5,3.14,20
+MHS-0246,Akuntansi,4,2.97,18
+MHS-0247,Sistem Informasi,1,3.63,17
+MHS-0248,Akuntansi,1,3.26,18
+MHS-0249,Akuntansi,7,3.92,21
+MHS-0250,Teknik Informatika,4,3.23,21
+MHS-0251,Manajemen Informatika,6,3.0,20
+MHS-0252,Sistem Informasi,3,2.72,18
+MHS-0253,Teknik Informatika,1,2.62,17
+MHS-0254,Sistem Informasi,1,2.7,17
+MHS-0255,Manajemen Informatika,5,3.34,19
+MHS-0256,Manajemen,3,3.43,18
+MHS-0257,Akuntansi,2,2.7,19
+MHS-0258,Manajemen,3,3.56,18
+MHS-0259,Manajemen,1,3.08,17
+MHS-0260,Manajemen Informatika,4,3.3,18
+MHS-0261,Manajemen,2,3.81,19
+MHS-0262,Akuntansi,6,3.56,20
+MHS-0263,Manajemen Informatika,2,3.16,19
+MHS-0264,Sistem Informasi,3,2.94,19
+MHS-0265,Teknik Informatika,1,2.5,18
+MHS-0266,Manajemen,1,3.0,18
+MHS-0267,Manajemen,3,3.18,19
+MHS-0268,Manajemen,3,2.9,17
+MHS-0269,Sistem Informasi,4,3.2,19
+MHS-0270,Manajemen Informatika,2,3.28,19
+MHS-0271,Teknik Informatika,5,3.17,19
+MHS-0272,Teknik Informatika,6,3.02,19
+MHS-0273,Teknik Informatika,5,3.31,19
+MHS-0274,Akuntansi,1,3.4,19
+MHS-0275,Sistem Informasi,3,2.87,19
+MHS-0276,Sistem Informasi,1,3.74,17
+MHS-0277,Teknik Informatika,2,3.22,19
+MHS-0278,Manajemen,8,3.26,21
+MHS-0279,Manajemen,1,3.5,17
+MHS-0280,Teknik Informatika,3,3.33,18
+MHS-0281,Teknik Informatika,4,3.58,20
+MHS-0282,Sistem Informasi,5,3.35,19
+MHS-0283,Sistem Informasi,4,3.04,19
+MHS-0284,Manajemen Informatika,1,3.38,17
+MHS-0285,Manajemen,2,2.85,20
+MHS-0286,Manajemen Informatika,3,3.29,20
+MHS-0287,Sistem Informasi,1,3.24,19
+MHS-0288,Sistem Informasi,2,3.18,18
+MHS-0289,Manajemen Informatika,1,3.21,18
+MHS-0290,Manajemen,1,2.59,17
+MHS-0291,Manajemen Informatika,3,3.06,20
+MHS-0292,Manajemen Informatika,1,3.28,17
+MHS-0293,Teknik Informatika,4,3.31,19
+MHS-0294,Sistem Informasi,5,2.89,19
+MHS-0295,Manajemen Informatika,6,3.69,20
+MHS-0296,Sistem Informasi,2,2.95,17
+MHS-0297,Teknik Informatika,1,3.59,17
+MHS-0298,Manajemen Informatika,1,3.4,17
+MHS-0299,Manajemen,4,3.02,19
+MHS-0300,Manajemen Informatika,5,3.87,20
+MHS-0301,Manajemen Informatika,1,2.83,17
+MHS-0302,Sistem Informasi,7,3.57,21
+MHS-0303,Sistem Informasi,1,3.6,18
+MHS-0304,Manajemen,4,3.02,19
+MHS-0305,Manajemen,5,3.74,19
+MHS-0306,Akuntansi,6,3.16,20
+MHS-0307,Sistem Informasi,5,3.35,20
+MHS-0308,Sistem Informasi,6,3.34,20
+MHS-0309,Teknik Informatika,2,3.2,18
+MHS-0310,Manajemen Informatika,6,3.53,20
+MHS-0311,Sistem Informasi,1,3.53,17
+MHS-0312,Manajemen Informatika,7,2.64,21
+MHS-0313,Manajemen Informatika,4,3.71,19
+MHS-0314,Akuntansi,6,2.67,20
+MHS-0315,Teknik Informatika,3,3.61,18
+MHS-0316,Manajemen,4,3.64,18
+MHS-0317,Sistem Informasi,3,2.87,19
+MHS-0318,Manajemen Informatika,5,3.11,20
+MHS-0319,Manajemen Informatika,1,2.86,17
+MHS-0320,Manajemen Informatika,1,3.17,18
+MHS-0321,Sistem Informasi,2,3.14,17
+MHS-0322,Manajemen,1,3.52,17
+MHS-0323,Manajemen,6,3.71,20
+MHS-0324,Manajemen Informatika,2,3.74,17
+MHS-0325,Akuntansi,8,3.05,20
+MHS-0326,Manajemen,2,3.18,17
+MHS-0327,Manajemen,1,2.66,18
+MHS-0328,Manajemen,6,2.97,20
+MHS-0329,Sistem Informasi,4,3.59,17
+MHS-0330,Manajemen Informatika,3,3.82,17
+MHS-0331,Sistem Informasi,4,2.82,19
+MHS-0332,Teknik Informatika,5,3.04,20
+MHS-0333,Manajemen Informatika,2,3.24,17
+MHS-0334,Manajemen Informatika,8,3.35,21
+MHS-0335,Manajemen Informatika,8,2.97,21
+MHS-0336,Manajemen Informatika,4,3.4,20
+MHS-0337,Teknik Informatika,1,3.08,17
+MHS-0338,Manajemen,5,3.24,20
+MHS-0339,Sistem Informasi,1,3.44,18
+MHS-0340,Manajemen Informatika,1,3.25,17
+MHS-0341,Sistem Informasi,2,3.1,19
+MHS-0342,Sistem Informasi,3,3.21,19
+MHS-0343,Manajemen Informatika,6,3.22,20
+MHS-0344,Sistem Informasi,5,3.12,23
+MHS-0345,Sistem Informasi,5,3.16,18
+MHS-0346,Manajemen,3,3.81,20
+MHS-0347,Manajemen,2,3.45,18
+MHS-0348,Manajemen Informatika,2,3.15,18
+MHS-0349,Sistem Informasi,8,3.49,21
+MHS-0350,Manajemen,1,3.13,17
+MHS-0351,Sistem Informasi,6,3.66,20
+MHS-0352,Teknik Informatika,4,3.38,19
+MHS-0353,Manajemen,3,3.21,17
+MHS-0354,Manajemen Informatika,5,3.41,20
+MHS-0355,Manajemen Informatika,3,2.7,18
+MHS-0356,Manajemen,6,2.86,19
+MHS-0357,Manajemen Informatika,7,2.83,20
+MHS-0358,Manajemen,3,3.3,20
+MHS-0359,Akuntansi,2,3.86,18
+MHS-0360,Manajemen,4,4.0,19
+MHS-0361,Sistem Informasi,7,3.47,20
+MHS-0362,Manajemen,2,3.43,19
+MHS-0363,Sistem Informasi,4,2.62,20
+MHS-0364,Sistem Informasi,4,3.06,20
+MHS-0365,Akuntansi,5,2.97,19
+MHS-0366,Sistem Informasi,1,3.03,18
+MHS-0367,Akuntansi,5,3.19,20
+MHS-0368,Akuntansi,7,3.08,22
+MHS-0369,Manajemen Informatika,1,2.56,17
+MHS-0370,Manajemen Informatika,2,3.51,19
+MHS-0371,Manajemen Informatika,8,2.87,21
+MHS-0372,Manajemen Informatika,1,3.33,17
+MHS-0373,Manajemen Informatika,6,3.98,20
+MHS-0374,Manajemen,3,2.93,19
+MHS-0375,Manajemen Informatika,2,2.36,18
+MHS-0376,Sistem Informasi,6,3.15,20
+MHS-0377,Teknik Informatika,3,3.64,20
+MHS-0378,Manajemen Informatika,3,3.94,19
+MHS-0379,Teknik Informatika,2,2.82,19
+MHS-0380,Manajemen Informatika,4,3.42,19
+MHS-0381,Manajemen Informatika,1,3.09,17
+MHS-0382,Manajemen,3,3.21,19
+MHS-0383,Manajemen,8,4.0,22
+MHS-0384,Teknik Informatika,2,2.72,19
+MHS-0385,Manajemen,4,3.34,19
+MHS-0386,Teknik Informatika,2,3.41,18
+MHS-0387,Manajemen Informatika,5,3.63,18
+MHS-0388,Manajemen Informatika,1,3.28,17
+MHS-0389,Teknik Informatika,8,3.36,22
+MHS-0390,Teknik Informatika,3,3.11,18
+MHS-0391,Akuntansi,2,3.34,19
+MHS-0392,Sistem Informasi,1,3.13,17
+MHS-0393,Sistem Informasi,1,3.47,18
+MHS-0394,Teknik Informatika,3,3.12,18
+MHS-0395,Sistem Informasi,2,3.38,18
+MHS-0396,Akuntansi,6,3.24,18
+MHS-0397,Teknik Informatika,3,3.64,18
+MHS-0398,Sistem Informasi,2,3.23,17
+MHS-0399,Teknik Informatika,4,2.63,20
+MHS-0400,Teknik Informatika,5,3.69,20
+MHS-0401,Manajemen Informatika,1,2.93,18
+MHS-0402,Akuntansi,1,3.02,19
+MHS-0403,Sistem Informasi,1,3.04,17
+MHS-0404,Teknik Informatika,5,3.73,21
+MHS-0405,Sistem Informasi,5,2.5,20
+MHS-0406,Teknik Informatika,3,4.0,18
+MHS-0407,Sistem Informasi,6,3.62,21
+MHS-0408,Manajemen Informatika,6,3.33,19
+MHS-0409,Akuntansi,4,3.23,18
+MHS-0410,Manajemen Informatika,6,3.35,20
+MHS-0411,Sistem Informasi,2,3.43,18
+MHS-0412,Akuntansi,1,3.48,17
+MHS-0413,Akuntansi,2,3.44,19
+MHS-0414,Manajemen,1,3.28,17
+MHS-0415,Manajemen,4,3.18,19
+MHS-0416,Sistem Informasi,7,3.2,20
+MHS-0417,Manajemen Informatika,1,3.18,17
+MHS-0418,Sistem Informasi,1,3.65,18
+MHS-0419,Manajemen,3,3.46,17
+MHS-0420,Teknik Informatika,7,2.22,20
+MHS-0421,Teknik Informatika,2,3.48,17
+MHS-0422,Teknik Informatika,3,3.32,20
+MHS-0423,Manajemen Informatika,1,3.24,18
+MHS-0424,Sistem Informasi,1,3.11,18
+MHS-0425,Manajemen Informatika,8,3.64,22
+MHS-0426,Sistem Informasi,8,3.58,20
+MHS-0427,Sistem Informasi,1,2.98,18
+MHS-0428,Teknik Informatika,7,3.39,21
+MHS-0429,Sistem Informasi,4,2.91,19
+MHS-0430,Manajemen Informatika,6,2.77,21
+MHS-0431,Manajemen Informatika,3,3.03,19
+MHS-0432,Teknik Informatika,3,3.55,19
+MHS-0433,Manajemen,3,3.58,17
+MHS-0434,Manajemen Informatika,5,3.43,19
+MHS-0435,Manajemen Informatika,1,3.5,17
+MHS-0436,Manajemen,1,3.43,18
+MHS-0437,Manajemen Informatika,2,3.03,17
+MHS-0438,Teknik Informatika,5,3.4,21
+MHS-0439,Manajemen,2,3.53,19
+MHS-0440,Manajemen Informatika,5,3.51,20
+MHS-0441,Manajemen Informatika,8,3.67,21
+MHS-0442,Akuntansi,1,3.5,17
+MHS-0443,Sistem Informasi,5,3.37,19
+MHS-0444,Sistem Informasi,3,3.62,19
+MHS-0445,Teknik Informatika,6,3.24,20
+MHS-0446,Akuntansi,1,2.94,17
+MHS-0447,Akuntansi,5,3.19,20
+MHS-0448,Teknik Informatika,6,2.99,20
+MHS-0449,Sistem Informasi,7,3.01,19
+MHS-0450,Manajemen Informatika,5,3.2,19
+MHS-0451,Teknik Informatika,3,2.97,18
+MHS-0452,Manajemen,4,3.14,21
+MHS-0453,Sistem Informasi,6,2.59,20
+MHS-0454,Akuntansi,4,3.32,18
+MHS-0455,Manajemen Informatika,1,3.25,18
+MHS-0456,Sistem Informasi,7,2.96,19
+MHS-0457,Manajemen Informatika,5,3.48,20
+MHS-0458,Sistem Informasi,5,3.58,19
+MHS-0459,Manajemen Informatika,2,2.69,18
+MHS-0460,Manajemen Informatika,4,2.98,20
+MHS-0461,Manajemen Informatika,3,2.98,17
+MHS-0462,Manajemen,4,2.92,18
+MHS-0463,Manajemen,1,3.54,17
+MHS-0464,Manajemen,4,3.18,20
+MHS-0465,Akuntansi,8,3.16,20
+MHS-0466,Sistem Informasi,1,2.55,17
+MHS-0467,Manajemen Informatika,8,3.47,21
+MHS-0468,Teknik Informatika,3,2.82,19
+MHS-0469,Manajemen Informatika,6,3.27,21
+MHS-0470,Akuntansi,6,3.35,20
+MHS-0471,Manajemen Informatika,4,3.73,19
+MHS-0472,Akuntansi,5,2.79,20
+MHS-0473,Manajemen Informatika,6,2.19,19
+MHS-0474,Teknik Informatika,3,3.31,18
+MHS-0475,Sistem Informasi,2,3.88,18
+MHS-0476,Akuntansi,5,3.68,20
+MHS-0477,Manajemen Informatika,6,3.32,20
+MHS-0478,Manajemen,5,3.08,20
+MHS-0479,Akuntansi,6,3.53,18
+MHS-0480,Sistem Informasi,3,2.91,18
+MHS-0481,Manajemen,6,3.42,20
+MHS-0482,Manajemen,1,3.43,17
+MHS-0483,Sistem Informasi,4,3.62,19
+MHS-0484,Manajemen,1,4.0,18
+MHS-0485,Manajemen,2,3.39,18
+MHS-0486,Akuntansi,2,3.07,18
+MHS-0487,Manajemen Informatika,3,3.24,18
+MHS-0488,Manajemen Informatika,5,2.63,19
+MHS-0489,Akuntansi,3,3.01,19
+MHS-0490,Teknik Informatika,3,3.11,19
+MHS-0491,Sistem Informasi,2,3.07,18
+MHS-0492,Manajemen,2,3.3,18
+MHS-0493,Manajemen Informatika,2,2.96,19
+MHS-0494,Manajemen Informatika,1,3.64,17
+MHS-0495,Sistem Informasi,4,3.25,20
+MHS-0496,Sistem Informasi,5,3.25,19
+MHS-0497,Manajemen,4,3.14,19
+MHS-0498,Manajemen Informatika,3,3.3,19
+MHS-0499,Akuntansi,2,3.54,17
+MHS-0500,Akuntansi,6,2.95,19
+MHS-0501,Manajemen,3,3.02,18
+MHS-0502,Sistem Informasi,3,3.14,18
+MHS-0503,Sistem Informasi,1,2.78,19
+MHS-0504,Teknik Informatika,2,2.96,17
+MHS-0505,Manajemen,3,3.08,18
+MHS-0506,Manajemen Informatika,3,3.56,19
+MHS-0507,Akuntansi,4,3.34,18
+MHS-0508,Teknik Informatika,4,3.32,19
+MHS-0509,Akuntansi,4,3.55,19
+MHS-0510,Manajemen,5,3.2,19
+MHS-0511,Manajemen,6,3.39,20
+MHS-0512,Sistem Informasi,5,3.21,19
+MHS-0513,Akuntansi,7,3.34,19
+MHS-0514,Teknik Informatika,1,3.05,18
+MHS-0515,Manajemen Informatika,1,2.4,19
+MHS-0516,Manajemen Informatika,1,3.2,18
+MHS-0517,Sistem Informasi,4,3.75,19
+MHS-0518,Teknik Informatika,7,3.57,21
+MHS-0519,Akuntansi,2,3.59,17
+MHS-0520,Manajemen Informatika,7,3.68,22
+MHS-0521,Manajemen,1,3.28,18
+MHS-0522,Sistem Informasi,7,3.32,22
+MHS-0523,Akuntansi,2,3.03,17
+MHS-0524,Teknik Informatika,1,3.14,19
+MHS-0525,Teknik Informatika,3,3.47,19
+MHS-0526,Sistem Informasi,2,3.67,18
+MHS-0527,Sistem Informasi,2,3.2,18
+MHS-0528,Manajemen Informatika,2,3.09,18
+MHS-0529,Manajemen Informatika,6,3.25,21
+MHS-0530,Teknik Informatika,4,3.46,19
+MHS-0531,Teknik Informatika,2,2.74,17
+MHS-0532,Akuntansi,4,2.45,18
+MHS-0533,Akuntansi,5,3.06,19
+MHS-0534,Manajemen,2,2.82,18
+MHS-0535,Teknik Informatika,3,3.07,18
+MHS-0536,Akuntansi,1,3.2,18
+MHS-0537,Teknik Informatika,1,3.09,17
+MHS-0538,Manajemen Informatika,5,3.76,20
+MHS-0539,Sistem Informasi,1,3.36,17
+MHS-0540,Manajemen Informatika,3,3.36,19
+MHS-0541,Akuntansi,5,3.47,19
+MHS-0542,Manajemen,1,2.85,18
+MHS-0543,Manajemen Informatika,4,3.61,18
+MHS-0544,Manajemen,2,3.22,19
+MHS-0545,Manajemen,8,3.48,22
+MHS-0546,Sistem Informasi,3,2.87,19
+MHS-0547,Manajemen Informatika,6,2.71,20
+MHS-0548,Manajemen,4,3.54,19
+MHS-0549,Sistem Informasi,1,3.38,17
+MHS-0550,Teknik Informatika,4,2.93,20
+MHS-0551,Sistem Informasi,7,2.95,22
+MHS-0552,Teknik Informatika,4,3.64,20
+MHS-0553,Manajemen,6,2.83,19
+MHS-0554,Manajemen,7,3.82,21
+MHS-0555,Teknik Informatika,2,2.93,17
+MHS-0556,Sistem Informasi,2,3.47,18
+MHS-0557,Manajemen Informatika,4,3.13,19
+MHS-0558,Manajemen Informatika,3,3.46,17
+MHS-0559,Teknik Informatika,6,3.06,19
+MHS-0560,Manajemen,7,3.19,20
+MHS-0561,Manajemen,2,3.26,18
+MHS-0562,Manajemen Informatika,2,2.9,17
+MHS-0563,Manajemen Informatika,6,3.51,20
+MHS-0564,Manajemen Informatika,2,3.07,18
+MHS-0565,Sistem Informasi,6,3.17,20
+MHS-0566,Manajemen,3,2.9,18
+MHS-0567,Sistem Informasi,5,2.35,20
+MHS-0568,Sistem Informasi,1,3.18,19
+MHS-0569,Akuntansi,4,4.0,19
+MHS-0570,Sistem Informasi,3,3.52,18
+MHS-0571,Sistem Informasi,4,3.24,19
+MHS-0572,Teknik Informatika,1,3.16,17
+MHS-0573,Sistem Informasi,5,3.26,19
+MHS-0574,Manajemen,6,3.44,21
+MHS-0575,Teknik Informatika,2,2.84,17
+MHS-0576,Akuntansi,1,3.64,19
+MHS-0577,Manajemen Informatika,1,3.5,18
+MHS-0578,Akuntansi,4,3.5,19
+MHS-0579,Sistem Informasi,4,3.4,19
+MHS-0580,Manajemen Informatika,4,3.26,19
+MHS-0581,Sistem Informasi,2,3.49,17
+MHS-0582,Akuntansi,3,3.46,20
+MHS-0583,Sistem Informasi,4,3.13,19
+MHS-0584,Sistem Informasi,3,3.05,19
+MHS-0585,Manajemen,8,3.29,22
+MHS-0586,Manajemen Informatika,1,3.79,17
+MHS-0587,Manajemen Informatika,5,2.82,20
+MHS-0588,Manajemen Informatika,3,2.74,18
+MHS-0589,Manajemen Informatika,3,3.31,19
+MHS-0590,Manajemen Informatika,5,3.27,18
+MHS-0591,Manajemen Informatika,5,3.31,19
+MHS-0592,Manajemen,8,3.34,21
+MHS-0593,Manajemen Informatika,1,3.17,18
+MHS-0594,Sistem Informasi,1,3.77,18
+MHS-0595,Teknik Informatika,5,2.69,19
+MHS-0596,Sistem Informasi,4,2.96,18
+MHS-0597,Manajemen,2,3.21,18
+MHS-0598,Manajemen Informatika,1,2.67,17
+MHS-0599,Manajemen Informatika,1,3.19,18
+MHS-0600,Manajemen Informatika,7,3.83,20
+MHS-0601,Manajemen Informatika,1,3.26,17
+MHS-0602,Manajemen Informatika,2,3.33,18
+MHS-0603,Manajemen Informatika,2,2.81,17
+MHS-0604,Manajemen Informatika,2,3.03,17
+MHS-0605,Manajemen Informatika,1,3.12,17
+MHS-0606,Sistem Informasi,3,3.14,19
+MHS-0607,Manajemen Informatika,1,3.7,19
+MHS-0608,Sistem Informasi,6,3.45,20
+MHS-0609,Sistem Informasi,2,2.86,18
+MHS-0610,Manajemen,4,3.34,19
+MHS-0611,Manajemen Informatika,7,3.42,20
+MHS-0612,Teknik Informatika,4,3.65,18
+MHS-0613,Manajemen,4,3.8,18
+MHS-0614,Manajemen Informatika,2,2.89,17
+MHS-0615,Teknik Informatika,2,2.97,18
+MHS-0616,Akuntansi,5,2.81,20
+MHS-0617,Manajemen Informatika,8,3.17,21
+MHS-0618,Manajemen Informatika,5,3.41,19
+MHS-0619,Teknik Informatika,4,3.6,18
+MHS-0620,Manajemen,5,3.22,20
+MHS-0621,Manajemen Informatika,3,3.14,17
+MHS-0622,Manajemen Informatika,1,3.3,18
+MHS-0623,Sistem Informasi,4,2.96,18
+MHS-0624,Sistem Informasi,7,3.98,20
+MHS-0625,Manajemen,1,2.69,17
+MHS-0626,Sistem Informasi,5,3.31,19
+MHS-0627,Sistem Informasi,2,3.96,19
+MHS-0628,Manajemen,4,3.25,19
+MHS-0629,Manajemen Informatika,1,3.18,18
+MHS-0630,Manajemen Informatika,3,3.12,19
+MHS-0631,Manajemen,5,3.19,19
+MHS-0632,Teknik Informatika,2,3.73,18
+MHS-0633,Sistem Informasi,5,2.48,19
+MHS-0634,Sistem Informasi,6,3.79,21
+MHS-0635,Manajemen Informatika,7,2.75,20
+MHS-0636,Sistem Informasi,2,3.16,19
+MHS-0637,Sistem Informasi,3,3.1,19
+MHS-0638,Manajemen Informatika,1,3.46,19
+MHS-0639,Manajemen Informatika,8,2.69,21
+MHS-0640,Sistem Informasi,7,3.41,21
+MHS-0641,Manajemen Informatika,4,3.96,21
+MHS-0642,Sistem Informasi,6,2.77,20
+MHS-0643,Manajemen Informatika,3,3.32,17
+MHS-0644,Sistem Informasi,4,3.02,17
+MHS-0645,Manajemen Informatika,1,3.4,18
+MHS-0646,Teknik Informatika,5,3.26,18
+MHS-0647,Manajemen,1,3.03,17
+MHS-0648,Manajemen,6,3.42,20
+MHS-0649,Teknik Informatika,6,3.88,20
+MHS-0650,Sistem Informasi,5,3.18,20
+MHS-0651,Manajemen Informatika,1,3.5,18
+MHS-0652,Sistem Informasi,2,2.8,19
+MHS-0653,Manajemen,2,2.92,17
+MHS-0654,Manajemen,2,3.42,17
+MHS-0655,Sistem Informasi,1,3.77,17
+MHS-0656,Manajemen Informatika,7,3.37,21
+MHS-0657,Manajemen Informatika,4,3.14,20
+MHS-0658,Sistem Informasi,2,3.25,18
+MHS-0659,Manajemen,3,2.81,19
+MHS-0660,Manajemen,3,3.46,18
+MHS-0661,Sistem Informasi,4,3.56,20
+MHS-0662,Akuntansi,3,3.09,20
+MHS-0663,Manajemen,7,3.09,21
+MHS-0664,Manajemen Informatika,3,3.34,20
+MHS-0665,Manajemen Informatika,8,3.1,20
+MHS-0666,Manajemen Informatika,6,3.23,20
+MHS-0667,Manajemen Informatika,2,3.98,17
+MHS-0668,Manajemen Informatika,7,3.16,21
+MHS-0669,Manajemen Informatika,1,3.12,17
+MHS-0670,Manajemen Informatika,6,3.02,21
+MHS-0671,Manajemen Informatika,3,3.51,20
+MHS-0672,Teknik Informatika,6,3.19,21
+MHS-0673,Manajemen Informatika,6,3.02,20
+MHS-0674,Sistem Informasi,6,3.71,19
+MHS-0675,Sistem Informasi,6,3.75,19
+MHS-0676,Akuntansi,2,3.04,19
+MHS-0677,Manajemen Informatika,1,2.6,18
+MHS-0678,Sistem Informasi,3,3.6,18
+MHS-0679,Akuntansi,1,3.01,17
+MHS-0680,Teknik Informatika,5,3.53,18
+MHS-0681,Teknik Informatika,2,2.56,17
+MHS-0682,Manajemen Informatika,8,3.56,23
+MHS-0683,Manajemen Informatika,4,2.83,18
+MHS-0684,Manajemen,6,3.51,20
+MHS-0685,Akuntansi,1,3.25,18
+MHS-0686,Manajemen,6,2.92,19
+MHS-0687,Manajemen,7,3.11,21
+MHS-0688,Manajemen Informatika,3,3.49,19
+MHS-0689,Teknik Informatika,4,3.29,19
+MHS-0690,Manajemen Informatika,5,3.45,22
+MHS-0691,Sistem Informasi,1,3.94,17
+MHS-0692,Sistem Informasi,3,2.7,19
+MHS-0693,Sistem Informasi,3,3.82,18
+MHS-0694,Manajemen Informatika,1,3.29,18
+MHS-0695,Manajemen Informatika,2,2.94,18
+MHS-0696,Manajemen,1,2.78,17
+MHS-0697,Manajemen Informatika,1,3.18,18
+MHS-0698,Manajemen,1,3.57,17
+MHS-0699,Manajemen Informatika,8,3.21,21
+MHS-0700,Sistem Informasi,4,3.78,19
+MHS-0701,Sistem Informasi,8,2.74,22
+MHS-0702,Manajemen Informatika,3,3.25,19
+MHS-0703,Sistem Informasi,2,2.81,18
+MHS-0704,Manajemen Informatika,3,3.38,19
+MHS-0705,Manajemen Informatika,3,3.56,18
+MHS-0706,Akuntansi,1,3.1,17
+MHS-0707,Sistem Informasi,4,2.34,20
+MHS-0708,Teknik Informatika,2,3.32,19
+MHS-0709,Manajemen Informatika,4,3.4,19
+MHS-0710,Manajemen,4,3.39,19
+MHS-0711,Teknik Informatika,1,3.68,17
+MHS-0712,Manajemen,1,2.88,18
+MHS-0713,Sistem Informasi,6,3.49,21
+MHS-0714,Sistem Informasi,3,3.67,20
+MHS-0715,Sistem Informasi,1,2.63,17
+MHS-0716,Akuntansi,8,3.36,21
+MHS-0717,Teknik Informatika,1,3.07,18
+MHS-0718,Akuntansi,5,3.22,20
+MHS-0719,Manajemen Informatika,8,3.37,21
+MHS-0720,Manajemen,2,3.08,17
+MHS-0721,Akuntansi,1,3.01,18
+MHS-0722,Manajemen Informatika,1,3.26,18
+MHS-0723,Manajemen Informatika,2,2.87,17
+MHS-0724,Manajemen,1,2.87,19
+MHS-0725,Manajemen,5,3.49,20
+MHS-0726,Teknik Informatika,1,2.85,18
+MHS-0727,Manajemen Informatika,3,3.48,19
+MHS-0728,Teknik Informatika,8,3.41,21
+MHS-0729,Manajemen Informatika,6,2.65,19
+MHS-0730,Manajemen Informatika,4,3.01,19
+MHS-0731,Manajemen Informatika,2,3.67,17
+MHS-0732,Teknik Informatika,4,2.91,20
+MHS-0733,Manajemen,3,3.09,17
+MHS-0734,Sistem Informasi,3,3.41,20
+MHS-0735,Sistem Informasi,1,3.52,17
+MHS-0736,Teknik Informatika,7,3.16,20
+MHS-0737,Sistem Informasi,3,3.04,18
+MHS-0738,Teknik Informatika,1,3.75,17
+MHS-0739,Sistem Informasi,2,3.86,19
+MHS-0740,Sistem Informasi,3,3.59,17
+MHS-0741,Sistem Informasi,6,3.28,21
+MHS-0742,Sistem Informasi,5,2.97,20
+MHS-0743,Manajemen,5,2.96,19
+MHS-0744,Sistem Informasi,1,3.43,17
+MHS-0745,Manajemen Informatika,3,3.4,20
+MHS-0746,Teknik Informatika,3,3.74,18
+MHS-0747,Sistem Informasi,1,3.48,17
+MHS-0748,Sistem Informasi,2,2.72,19
+MHS-0749,Akuntansi,5,3.62,20
+MHS-0750,Manajemen,1,2.9,17
+MHS-0751,Manajemen Informatika,4,3.12,19
+MHS-0752,Akuntansi,2,3.34,17
+MHS-0753,Manajemen,1,3.95,18
+MHS-0754,Sistem Informasi,2,4.0,19
+MHS-0755,Manajemen Informatika,8,3.46,21
+MHS-0756,Teknik Informatika,6,3.19,20
+MHS-0757,Manajemen,7,3.44,22
+MHS-0758,Sistem Informasi,3,3.56,18
+MHS-0759,Teknik Informatika,1,3.14,17
+MHS-0760,Teknik Informatika,4,3.88,19
+MHS-0761,Manajemen Informatika,3,3.33,20
+MHS-0762,Sistem Informasi,6,3.42,19
+MHS-0763,Manajemen Informatika,1,3.48,17
+MHS-0764,Manajemen,3,3.4,19
+MHS-0765,Manajemen Informatika,1,3.54,17
+MHS-0766,Manajemen,2,3.03,17
+MHS-0767,Teknik Informatika,5,3.05,20
+MHS-0768,Teknik Informatika,3,2.86,20
+MHS-0769,Sistem Informasi,2,3.4,18
+MHS-0770,Teknik Informatika,3,3.52,18
+MHS-0771,Manajemen Informatika,3,3.41,17
+MHS-0772,Teknik Informatika,6,3.84,20
+MHS-0773,Manajemen Informatika,7,3.25,21
+MHS-0774,Sistem Informasi,7,3.48,21
+MHS-0775,Teknik Informatika,6,2.87,20
+MHS-0776,Manajemen Informatika,2,3.11,18
+MHS-0777,Manajemen Informatika,5,3.49,19
+MHS-0778,Manajemen,3,3.55,19
+MHS-0779,Manajemen,2,3.15,19
+MHS-0780,Manajemen,6,3.22,19
+MHS-0781,Manajemen,1,2.72,19
+MHS-0782,Sistem Informasi,7,3.13,21
+MHS-0783,Manajemen Informatika,3,3.56,20
+MHS-0784,Sistem Informasi,4,3.45,18
+MHS-0785,Manajemen Informatika,4,3.43,18
+MHS-0786,Akuntansi,7,3.27,20
+MHS-0787,Manajemen,4,3.25,19
+MHS-0788,Sistem Informasi,4,3.02,20
+MHS-0789,Sistem Informasi,1,3.49,18
+MHS-0790,Akuntansi,3,3.4,18
+MHS-0791,Manajemen Informatika,1,3.42,17
+MHS-0792,Manajemen,5,3.07,20
+MHS-0793,Sistem Informasi,3,2.5,18
+MHS-0794,Manajemen,5,3.63,21
+MHS-0795,Manajemen Informatika,1,3.08,17
+MHS-0796,Teknik Informatika,1,2.95,19
+MHS-0797,Akuntansi,5,3.49,20
+MHS-0798,Manajemen,1,3.11,17
+MHS-0799,Manajemen,1,3.62,17
+MHS-0800,Akuntansi,1,3.47,17
+MHS-0801,Manajemen,7,3.49,21
+MHS-0802,Manajemen Informatika,5,2.77,20
+MHS-0803,Manajemen,2,3.67,18
+MHS-0804,Manajemen,2,3.34,18
+MHS-0805,Sistem Informasi,2,3.12,18
+MHS-0806,Manajemen,5,3.3,18
+MHS-0807,Akuntansi,5,2.63,20
+MHS-0808,Akuntansi,1,3.39,17
+MHS-0809,Sistem Informasi,1,2.89,17
+MHS-0810,Manajemen Informatika,1,2.78,17
+MHS-0811,Akuntansi,5,2.72,18
+MHS-0812,Teknik Informatika,5,3.64,18
+MHS-0813,Manajemen Informatika,2,3.03,17
+MHS-0814,Akuntansi,1,3.79,19
+MHS-0815,Teknik Informatika,1,3.06,17
+MHS-0816,Sistem Informasi,8,2.65,21
+MHS-0817,Manajemen,2,2.86,18
+MHS-0818,Sistem Informasi,5,3.68,20
+MHS-0819,Manajemen Informatika,4,3.2,19
+MHS-0820,Sistem Informasi,3,3.06,18
+MHS-0821,Teknik Informatika,2,3.31,19
+MHS-0822,Manajemen Informatika,1,3.43,19
+MHS-0823,Sistem Informasi,4,3.64,18
+MHS-0824,Sistem Informasi,5,3.76,19
+MHS-0825,Sistem Informasi,4,3.12,19
+MHS-0826,Akuntansi,4,2.79,18
+MHS-0827,Sistem Informasi,1,3.11,18
+MHS-0828,Sistem Informasi,8,3.34,20
+MHS-0829,Manajemen,6,2.91,22
+MHS-0830,Sistem Informasi,2,2.91,19
+MHS-0831,Manajemen Informatika,8,3.37,21
+MHS-0832,Sistem Informasi,4,3.23,20
+MHS-0833,Manajemen Informatika,4,3.26,20
+MHS-0834,Manajemen Informatika,5,2.98,19
+MHS-0835,Sistem Informasi,6,3.17,19
+MHS-0836,Sistem Informasi,4,2.93,19
+MHS-0837,Akuntansi,1,3.56,18
+MHS-0838,Sistem Informasi,2,3.61,18
+MHS-0839,Manajemen,7,2.6,19
+MHS-0840,Manajemen,2,2.92,17
+MHS-0841,Manajemen Informatika,2,2.73,18
+MHS-0842,Manajemen,3,3.02,18
+MHS-0843,Manajemen Informatika,3,3.22,20
+MHS-0844,Akuntansi,4,2.74,18
+MHS-0845,Manajemen Informatika,7,2.93,21
+MHS-0846,Sistem Informasi,2,2.9,19
+MHS-0847,Manajemen Informatika,1,3.32,19
+MHS-0848,Akuntansi,1,3.27,17
+MHS-0849,Sistem Informasi,7,3.0,21
+MHS-0850,Manajemen,4,3.31,19
+MHS-0851,Manajemen Informatika,2,3.06,18
+MHS-0852,Manajemen,6,3.15,20
+MHS-0853,Manajemen Informatika,6,3.84,20
+MHS-0854,Teknik Informatika,6,3.72,18
+MHS-0855,Manajemen Informatika,7,2.8,21
+MHS-0856,Manajemen Informatika,2,3.54,18
+MHS-0857,Manajemen Informatika,5,3.53,19
+MHS-0858,Sistem Informasi,3,2.85,20
+MHS-0859,Manajemen,6,3.54,19
+MHS-0860,Manajemen Informatika,5,3.79,19
+MHS-0861,Teknik Informatika,5,2.86,21
+MHS-0862,Sistem Informasi,4,2.93,18
+MHS-0863,Sistem Informasi,1,3.61,17
+MHS-0864,Sistem Informasi,4,3.35,19
+MHS-0865,Sistem Informasi,8,3.44,22
+MHS-0866,Manajemen,7,3.37,21
+MHS-0867,Manajemen Informatika,1,3.39,17
+MHS-0868,Manajemen Informatika,1,2.79,17
+MHS-0869,Teknik Informatika,1,3.62,17
+MHS-0870,Akuntansi,5,3.66,19
+MHS-0871,Sistem Informasi,6,3.17,20
+MHS-0872,Manajemen Informatika,2,3.23,18
+MHS-0873,Manajemen,3,2.71,17
+MHS-0874,Sistem Informasi,6,3.43,21
+MHS-0875,Manajemen Informatika,5,3.45,20
+MHS-0876,Manajemen Informatika,4,3.23,20
+MHS-0877,Manajemen,4,3.64,19
+MHS-0878,Manajemen,3,3.13,19
+MHS-0879,Manajemen Informatika,2,3.45,18
+MHS-0880,Manajemen Informatika,4,2.89,20
+MHS-0881,Manajemen Informatika,5,3.24,20
+MHS-0882,Manajemen,6,3.19,20
+MHS-0883,Manajemen Informatika,4,3.33,21
+MHS-0884,Manajemen Informatika,5,3.12,20
+MHS-0885,Teknik Informatika,1,3.2,18
+MHS-0886,Manajemen Informatika,3,3.54,17
+MHS-0887,Manajemen,1,3.1,17
+MHS-0888,Manajemen Informatika,2,2.69,18
+MHS-0889,Manajemen Informatika,5,3.86,20
+MHS-0890,Manajemen Informatika,8,3.73,21
+MHS-0891,Manajemen,1,2.8,18
+MHS-0892,Teknik Informatika,3,3.49,20
+MHS-0893,Teknik Informatika,6,3.07,21
+MHS-0894,Sistem Informasi,2,3.34,17
+MHS-0895,Manajemen,4,3.35,19
+MHS-0896,Manajemen Informatika,5,3.17,19
+MHS-0897,Manajemen Informatika,4,2.98,19
+MHS-0898,Teknik Informatika,1,3.01,17
+MHS-0899,Manajemen Informatika,2,2.93,18
+MHS-0900,Manajemen Informatika,6,2.96,19
+MHS-0901,Manajemen Informatika,4,3.23,19
+MHS-0902,Manajemen Informatika,1,3.0,17
+MHS-0903,Manajemen Informatika,5,3.49,17
+MHS-0904,Manajemen,1,3.77,19
+MHS-0905,Sistem Informasi,5,3.05,20
+MHS-0906,Teknik Informatika,2,3.33,18
+MHS-0907,Teknik Informatika,7,3.42,21
+MHS-0908,Sistem Informasi,2,3.42,17
+MHS-0909,Manajemen Informatika,2,3.28,19
+MHS-0910,Sistem Informasi,1,3.51,19
+MHS-0911,Manajemen,2,3.42,18
+MHS-0912,Manajemen Informatika,6,2.82,21
+MHS-0913,Manajemen,8,3.55,21
+MHS-0914,Sistem Informasi,2,3.56,17
+MHS-0915,Manajemen,3,2.98,18
+MHS-0916,Sistem Informasi,5,3.26,20
+MHS-0917,Manajemen Informatika,7,3.49,20
+MHS-0918,Akuntansi,4,3.18,19
+MHS-0919,Teknik Informatika,3,3.63,18
+MHS-0920,Manajemen Informatika,3,4.0,18
+MHS-0921,Teknik Informatika,5,2.97,20
+MHS-0922,Sistem Informasi,1,2.77,17
+MHS-0923,Teknik Informatika,4,3.36,18
+MHS-0924,Teknik Informatika,2,3.5,17
+MHS-0925,Sistem Informasi,6,3.17,21
+MHS-0926,Manajemen Informatika,1,3.76,17
+MHS-0927,Manajemen Informatika,4,2.78,20
+MHS-0928,Sistem Informasi,3,3.49,20
+MHS-0929,Manajemen,4,3.04,19
+MHS-0930,Manajemen Informatika,1,3.85,17
+MHS-0931,Manajemen Informatika,4,3.95,19
+MHS-0932,Teknik Informatika,4,2.98,19
+MHS-0933,Akuntansi,4,3.06,18
+MHS-0934,Sistem Informasi,4,3.55,19
+MHS-0935,Manajemen Informatika,5,3.11,21
+MHS-0936,Manajemen Informatika,6,3.23,21
+MHS-0937,Manajemen Informatika,2,3.26,17
+MHS-0938,Akuntansi,6,2.58,19
+MHS-0939,Manajemen Informatika,3,3.25,18
+MHS-0940,Manajemen,1,3.01,17
+MHS-0941,Manajemen Informatika,1,3.08,18
+MHS-0942,Manajemen,2,3.76,18
+MHS-0943,Manajemen,6,2.81,20
+MHS-0944,Teknik Informatika,5,3.53,21
+MHS-0945,Manajemen Informatika,6,3.15,21
+MHS-0946,Manajemen Informatika,3,3.15,18
+MHS-0947,Manajemen Informatika,3,3.53,18
+MHS-0948,Akuntansi,1,3.37,17
+MHS-0949,Teknik Informatika,2,3.45,19
+MHS-0950,Manajemen,3,3.59,18
+MHS-0951,Manajemen,1,3.13,18
+MHS-0952,Manajemen,2,3.04,18
+MHS-0953,Manajemen Informatika,4,2.87,19
+MHS-0954,Akuntansi,5,2.96,18
+MHS-0955,Sistem Informasi,8,4.0,21
+MHS-0956,Sistem Informasi,7,3.69,20
+MHS-0957,Sistem Informasi,4,2.78,19
+MHS-0958,Manajemen Informatika,3,2.79,18
+MHS-0959,Manajemen Informatika,4,3.42,20
+MHS-0960,Manajemen,6,3.44,19
+MHS-0961,Manajemen Informatika,1,3.44,19
+MHS-0962,Manajemen,3,3.16,17
+MHS-0963,Manajemen Informatika,6,3.21,20
+MHS-0964,Sistem Informasi,3,3.36,19
+MHS-0965,Manajemen Informatika,4,3.28,18
+MHS-0966,Sistem Informasi,4,2.47,19
+MHS-0967,Manajemen,1,3.17,19
+MHS-0968,Manajemen Informatika,2,2.95,17
+MHS-0969,Manajemen,2,3.31,18
+MHS-0970,Sistem Informasi,1,4.0,17
+MHS-0971,Manajemen,1,3.38,17
+MHS-0972,Akuntansi,6,3.14,21
+MHS-0973,Manajemen,2,3.57,18
+MHS-0974,Manajemen Informatika,3,3.42,18
+MHS-0975,Manajemen Informatika,2,3.4,18
+MHS-0976,Manajemen Informatika,7,3.46,22
+MHS-0977,Manajemen,2,3.97,17
+MHS-0978,Manajemen Informatika,3,2.85,18
+MHS-0979,Sistem Informasi,6,3.42,21
+MHS-0980,Manajemen,6,2.93,21
+MHS-0981,Sistem Informasi,1,3.44,17
+MHS-0982,Teknik Informatika,6,2.93,19
+MHS-0983,Manajemen Informatika,3,3.1,20
+MHS-0984,Manajemen Informatika,3,3.15,20
+MHS-0985,Manajemen,1,3.59,18
+MHS-0986,Sistem Informasi,1,3.57,17
+MHS-0987,Manajemen,5,2.81,19
+MHS-0988,Sistem Informasi,3,3.27,18
+MHS-0989,Manajemen Informatika,3,3.0,19
+MHS-0990,Teknik Informatika,5,2.81,21
+MHS-0991,Teknik Informatika,5,3.17,20
+MHS-0992,Manajemen,1,3.14,17
+MHS-0993,Manajemen Informatika,4,4.0,20
+MHS-0994,Manajemen,1,3.4,18
+MHS-0995,Sistem Informasi,5,2.77,20
+MHS-0996,Manajemen Informatika,4,3.05,20
+MHS-0997,Akuntansi,7,3.61,20
+MHS-0998,Manajemen Informatika,1,3.98,17
+MHS-0999,Akuntansi,1,2.69,17
+MHS-1000,Sistem Informasi,2,2.59,17
